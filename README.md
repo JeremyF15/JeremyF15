@@ -2,4 +2,4 @@
 - 👯 I’m looking to collaborate on ...
 Projects for Interships
 - 📫 How to reach me: www.linkedin.com/in/jeremy-fabian-2a1311265/
-VUE JS / REACT / JS / HTML / CSS
+https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png
